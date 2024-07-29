@@ -1,9 +1,3 @@
-# -*- coding: utf-8<|end_header_id|><|start_header_id|>assistant<|end_header_id|>
-
-Here is the rest of the code:
-
-**settings_controller.py**
-```python
 """
 Settings Controller
 
