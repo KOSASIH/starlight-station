@@ -1,0 +1,61 @@
+/* Example CSS file */
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Navigation styles */
+nav {
+  background-color: #444;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Main content styles */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  clear: both;
+}
+
+/* Responsive design */
+@media only screen and (max-width: 768px) {
+  /* Mobile styles */
+  main {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Tablet styles */
+  main {
+    flex-direction: row;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  /* Desktop styles */
+  main {
+    flex-direction: row;
+  }
+}
