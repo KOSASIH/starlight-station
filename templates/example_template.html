@@ -1,0 +1,12 @@
+<!-- Example template -->
+{% extends "layout.html" %}
+
+{% block content %}
+  <h1>Welcome to StarlightStation!</h1>
+  <p>This is an example page.</p>
+  <ul>
+    {% for item in items %}
+      <li>{{ item.name }} ({{ item.description }})</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
