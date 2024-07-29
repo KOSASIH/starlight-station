@@ -1,0 +1,30 @@
+-- SQLite database file
+-- Contains tables for users, products, and orders
+
+-- users table
+CREATE TABLE users (
+  id INTEGER PRIMARY KEY,
+  name TEXT NOT NULL,
+  email TEXT UNIQUE NOT NULL,
+  phone TEXT,
+  address TEXT
+);
+
+-- products table
+CREATE TABLE products (
+  id INTEGER PRIMARY KEY,
+  name TEXT NOT NULL,
+  description TEXT,
+  price REAL NOT NULL
+);
+
+-- orders table
+CREATE TABLE orders (
+  id INTEGER PRIMARY KEY,
+  user_id INTEGER NOT NULL,
+  product_id INTEGER NOT NULL,
+  order_date DATE NOT NULL,
+  total REAL NOT NULL,
+  FOREIGN KEY (user_id) REFERENCES users (id),
+  FOREIGN KEY (product_id) REFERENCES products (id)
+);
