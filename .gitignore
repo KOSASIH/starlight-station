@@ -50,3 +50,27 @@ m4/lt~obsolete.m4
 # can automatically generate from config.status script
 # (which is called by configure script))
 Makefile
+
+# Ignore virtual environment files
+venv/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Docker files
+docker-compose.yml
+Dockerfile
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore node_modules (if using npm)
+node_modules/
+
+# Ignore Makefile output
+output/
