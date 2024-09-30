@@ -15,6 +15,15 @@
 [![CQA Tested](https://img.shields.io/badge/CQA-Tested-2196F3.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![GIN Partner](https://img.shields.io/badge/GIN-Partner-66D9EF.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![ISO Compliant](https://img.shields.io/badge/ISO-Compliant-3F51B5.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![GCOT Optimized](https://img.shields.io/badge/GCOT-Optimized-8BC34A.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![CAIA Certified](https://img.shields.io/badge/CAIA-Certified-2196F3.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![IRI Compliant](https://img.shields.io/badge/IRI-Compliant-4CAF50.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![GCA Secure](https://img.shields.io/badge/GCA-Secure-FF69B4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![UGC Certified](https://img.shields.io/badge/UGC-Certified-9C27B0.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![CDSA Compliant](https://img.shields.io/badge/CDSA-Compliant-66D9EF.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![GIH Partner](https://img.shields.io/badge/GIH-Partner-3F51B5.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![ITA Compliant](https://img.shields.io/badge/ITA-Compliant-8B9467.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![GOSC Member](https://img.shields.io/badge/GOSC-Member-34A85A.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
