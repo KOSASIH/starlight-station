@@ -1,5 +1,13 @@
 ![Static Badge](https://img.shields.io/badge/StarlightStation-%F0%9F%9B%B0-white)
 
+[![GUAL Certification](https://img.shields.io/badge/GUAL-Certified-FF69B4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![IIAI Accredited](https://img.shields.io/badge/IIAI-Accredited-00BFFF.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![UCC Compliant](https://img.shields.io/badge/UCC-Compliant-008000.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![CASE Approved](https://img.shields.io/badge/CASE-Approved-FFC107.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![IGOS Conformant](https://img.shields.io/badge/IGOS-Conformant-6495ED.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![GSA Certified](https://img.shields.io/badge/GSA-Certified-FF9900.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+[![IASD Member](https://img.shields.io/badge/IASD-Member-4682B4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # starlight-station
