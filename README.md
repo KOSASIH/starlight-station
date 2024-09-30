@@ -1,5 +1,30 @@
 ![Static Badge](https://img.shields.io/badge/StarlightStation-%F0%9F%9B%B0-white)
 
+[![Galactic Union of Advanced Lifeforms (GUAL)](https://img.shields.io/badge/GUAL-Member-FF69B4.svg?style=for-the-badge)](https://www.gual.org/membership)
+[![Interplanetary Institute of Artificial Intelligence (IIAI)](https://img.shields.io/badge/IIAI-Accredited-00BFFF.svg?style=for-the-badge)](https://www.ii-ai.org/accreditation)
+[![United Cosmic Coalition (UCC)](https://img.shields.io/badge/UCC-Compliant-008000.svg?style=for-the-badge)](https://www.ucc.int/compliance)
+[![Cosmic Agency for Space Exploration (CASE)](https://img.shields.io/badge/CASE-Approved-FFC107.svg?style=for-the-badge)](https://www.case.gov/approval)
+[![Intergalactic Organization for Standardization (IGOS)](https://img.shields.io/badge/IGOS-Conformant-6495ED.svg?style=for-the-badge)](https://www.igos.org/conformity)
+
+[![Microsoft Partner](https://img.shields.io/badge/Microsoft-Partner-5C2D91.svg?style=for-the-badge)](https://partner.microsoft.com/en-us/)
+[![Google Cloud Partner](https://img.shields.io/badge/Google%20Cloud-Partner-4285F4.svg?style=for-the-badge)](https://cloud.google.com/partners)
+[![Amazon Web Services (AWS) Partner](https://img.shields.io/badge/AWS-Partner-232F3E.svg?style=for-the-badge)](https://aws.amazon.com/partners/)
+[![IBM Partner](https://img.shields.io/badge/IBM-Partner-0A0A0A.svg?style=for-the-badge)](https://www.ibm.com/partnerworld/)
+[![Oracle Partner](https://img.shields.io/badge/Oracle-Partner-F80000.svg?style=for-the-badge)](https://www.oracle.com/partners/)
+
+[![TensorFlow Certified](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=for-the-badge)](https://www.tensorflow.org/certification)
+[![PyTorch Partner](https://img.shields.io/badge/PyTorch-Partner-EE4C2C.svg?style=for-the-badge)](https://pytorch.org/partners)
+[![Keras Certified](https://img.shields.io/badge/Keras-Certified-FF69B4.svg?style=for-the-badge)](https://keras.io/certification)
+[![OpenCV Partner](https://img.shields.io/badge/OpenCV-Partner-5C3EE8.svg?style=for-the-badge)](https://opencv.org/partners)
+
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E.svg?style=for-the-badge)](https://aws.amazon.com/certification/)
+[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4.svg?style=for-the-badge)](https://cloud.google.com/certification)
+[![Microsoft Azure Certified](https://img.shields.io/badge/Microsoft%20Azure-Certified-0089D6.svg?style=for-the-badge)](https://docs.microsoft.com/en-us/learn/certifications/)
+[![Kubernetes Certified](https://img.shields.io/badge/Kubernetes-Certified-326CE5.svg?style=for-the-badge)](https://www.cncf.io/certification/)
+[![Docker Certified](https://img.shields.io/badge/Docker-Certified-2496ED.svg?style=for-the-badge)](https://www.docker.com/certification)
+
+[![GitHub Partner](https://img.shields.io/badge/GitHub-Partner-181717.svg?style=for-the-badge)](https://github.com/partners)
+
 [![GUAL Certification](https://img.shields.io/badge/GUAL-Certified-FF69B4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![IIAI Accredited](https://img.shields.io/badge/IIAI-Accredited-00BFFF.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![UCC Compliant](https://img.shields.io/badge/UCC-Compliant-008000.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
@@ -24,24 +49,6 @@
 [![GIH Partner](https://img.shields.io/badge/GIH-Partner-3F51B5.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![ITA Compliant](https://img.shields.io/badge/ITA-Compliant-8B9467.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![GOSC Member](https://img.shields.io/badge/GOSC-Member-34A85A.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-
-
-[![Microsoft Partner](https://img.shields.io/badge/Microsoft-Partner-5C2D91.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Google Cloud Partner](https://img.shields.io/badge/Google%20Cloud-Partner-4285F4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Amazon Web Services (AWS) Partner](https://img.shields.io/badge/AWS-Partner-232F3E.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![IBM Partner](https://img.shields.io/badge/IBM-Partner-0A0A0A.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Oracle Partner](https://img.shields.io/badge/Oracle-Partner-F80000.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-
-[![TensorFlow Certified](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![PyTorch Partner](https://img.shields.io/badge/PyTorch-Partner-EE4C2C.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Keras Certified](https://img.shields.io/badge/Keras-Certified-FF69B4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![OpenCV Partner](https://img.shields.io/badge/OpenCV-Partner-5C3EE8.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Microsoft Azure Certified](https://img.shields.io/badge/Microsoft%20Azure-Certified-0089D6.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Kubernetes Certified](https://img.shields.io/badge/Kubernetes-Certified-326CE5.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
-[![Docker Certified](https://img.shields.io/badge/Docker-Certified-2496ED.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
