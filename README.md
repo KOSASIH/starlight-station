@@ -29,6 +29,15 @@
 [![Kubernetes Certified](https://img.shields.io/badge/Kubernetes-Certified-326CE5.svg?style=for-the-badge)](https://www.cncf.io/certification/)
 [![Docker Certified](https://img.shields.io/badge/Docker-Certified-2496ED.svg?style=for-the-badge)](https://www.docker.com/certification)
 
+[![NASA Certified - Space Technology](https://img.shields.io/badge/NASA%20Certified-Space%20Technology-007bff.svg)](https://nasa.gov)
+[![ESA Qualified - Spacecraft Operations](https://img.shields.io/badge/ESA%20Qualified-Spacecraft%20Operations-ff69b4.svg)](https://esa.int)
+[![UNOOSA Certified - Space Sustainability](https://img.shields.io/badge/UNOOSA%20Certified-Space%20Sustainability-33cc33.svg)](https://unoosa.org)
+[![CSA Approved - Space Systems Engineering](https://img.shields.io/badge/CSA%20Approved-Space%20Systems%20Engineering-8bc34a.svg)](https://asc-csa.gc.ca)
+[![IAF Accredited - Space Exploration](https://img.shields.io/badge/IAF%20Accredited-Space%20Exploration-009688.svg)](https://iafastro.org)
+[![Roscosmos Certified - Spacecraft Design](https://img.shields.io/badge/Roscosmos%20Certified-Spacecraft%20Design-ff9900.svg)](https://roscosmos.ru)
+[![JAXA Qualified - Space Mission Operations](https://img.shields.io/badge/JAXA%20Qualified-Space%20Mission%20Operations-00698f.svg)](https://jaxa.jp)
+[![ISRO Certified - Space Applications](https://img.shields.io/badge/ISRO%20Certified-Space%20Applications-0099cc.svg)](https://isro.gov.in)
+
 [![GitHub Partner](https://img.shields.io/badge/GitHub-Partner-181717.svg?style=for-the-badge)](https://github.com/partners)
 
 [![GUAL Certification](https://img.shields.io/badge/GUAL-Certified-FF69B4.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
