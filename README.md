@@ -37,6 +37,13 @@
 [![Roscosmos Certified - Spacecraft Design](https://img.shields.io/badge/Roscosmos%20Certified-Spacecraft%20Design-ff9900.svg)](https://roscosmos.ru)
 [![JAXA Qualified - Space Mission Operations](https://img.shields.io/badge/JAXA%20Qualified-Space%20Mission%20Operations-00698f.svg)](https://jaxa.jp)
 [![ISRO Certified - Space Applications](https://img.shields.io/badge/ISRO%20Certified-Space%20Applications-0099cc.svg)](https://isro.gov.in)
+[![CNSA Certified - Space Navigation](https://img.shields.io/badge/CNSA%20Certified-Space%20Navigation-ff69b4.svg)](https://www.cnsa.gov.cn)
+[![DLR Qualified - Space Robotics](https://img.shields.io/badge/DLR%20Qualified-Space%20Robotics-33cc33.svg)](https://www.dlr.de)
+[![ASI Certified - Space Astronomy](https://img.shields.io/badge/ASI%20Certified-Space%20Astronomy-8bc34a.svg)](https://www.asi.it)
+[![KARI Qualified - Space Launch Systems](https://img.shields.io/badge/KARI%20Qualified-Space%20Launch%20Systems-009688.svg)](https://www.kari.re.kr)
+[![NSO Certified - Space Weather](https://img.shields.io/badge/NSO%20Certified-Space%20Weather-ff9900.svg)](https://www.nso.no)
+[![CNES Qualified - Space Telecommunications](https://img.shields.io/badge/CNES%20Qualified-Space%20Telecommunications-00698f.svg)](https://cnes.fr)
+[![SNSA Certified - Space Safety](https://img.shields.io/badge/SNSA%20Certified-Space%20Safety-0099cc.svg)](https://www.snsa.gov.sa)
 
 [![GitHub Partner](https://img.shields.io/badge/GitHub-Partner-181717.svg?style=for-the-badge)](https://github.com/partners)
 
