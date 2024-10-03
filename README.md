@@ -1,5 +1,11 @@
 ![Static Badge](https://img.shields.io/badge/StarlightStation-%F0%9F%9B%B0-white)
 
+[![NASA Code Quality](https://img.shields.io/badge/NASA-Code%20Quality-007bff.svg)](https://nasa.gov)
+[![ESA Build Status](https://img.shields.io/badge/ESA-Build%20Status-ff69b4.svg)](https://esa.int)
+[![UNOOSA Open Source](https://img.shields.io/badge/UNOOSA-Open%20Source-33cc33.svg)](https://unoosa.org)
+[![CSA Code Coverage](https://img.shields.io/badge/CSA-Code%20Coverage-8bc34a.svg)](https://asc-csa.gc.ca)
+[![IAF Compliance](https://img.shields.io/badge/IAF-Compliance-009688.svg)](https://iafastro.org)
+
 [![Galactic Union of Advanced Lifeforms (GUAL)](https://img.shields.io/badge/GUAL-Member-FF69B4.svg?style=for-the-badge)](https://www.gual.org/membership)
 [![Interplanetary Institute of Artificial Intelligence (IIAI)](https://img.shields.io/badge/IIAI-Accredited-00BFFF.svg?style=for-the-badge)](https://www.ii-ai.org/accreditation)
 [![United Cosmic Coalition (UCC)](https://img.shields.io/badge/UCC-Compliant-008000.svg?style=for-the-badge)](https://www.ucc.int/compliance)
