@@ -87,6 +87,13 @@
 [![ITA Compliant](https://img.shields.io/badge/ITA-Compliant-8B9467.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 [![GOSC Member](https://img.shields.io/badge/GOSC-Member-34A85A.svg?style=for-the-badge)](https://github.com/KOSASIH/starlight-station)
 
+[![Sidra Bank Certified Developer](https://img.shields.io/badge/Sidra%20Bank-Certified%20Developer-007bff.svg)](https://www.sidrabank.com)
+[![Sidra Bank Partner](https://img.shields.io/badge/Sidra%20Bank-Partner-ff69b4.svg)](https://www.sidrabank.com/partners)
+[![Sidra Bank Community Member](https://img.shields.io/badge/Sidra%20Bank-Community%20Member-33cc33.svg)](https://www.sidrabank.com/community)
+[![Sidra Chain Certified Validator](https://img.shields.io/badge/Sidra%20Chain-Certified%20Validator-8bc34a.svg)](https://www.sidrachain.com)
+[![Sidra Chain Node Operator](https://img.shields.io/badge/Sidra%20Chain-Node%20Operator-009688.svg)](https://www.sidrachain.com/node-operator)
+[![Sidra Chain Developer](https://img.shields.io/badge/Sidra%20Chain-Developer-ff9900.svg)](https://www.sidrachain.com/developers)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # starlight-station
