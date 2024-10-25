@@ -171,6 +171,16 @@
 [![Royal Medal](https://img.shields.io/badge/Award-Royal%20Society%20Royal%20Medal-red)](https://royalsociety.org/grants-schemes-awards/awards/royal-medal/)
 [![UNESCO World Press Freedom Prize](https://img.shields.io/badge/Award-UNESCO%20World%20Press%20Freedom%20Prize-blue)](https://en.unesco.org/commemorations/worldpressfreedomday/guillermo-cano-prize)
 [![International Prize for Arabic Fiction](https://img.shields.io/badge/Award-International%20Prize%20for%20Arabic%20Fiction-orange)](https://www.arabicfiction.org/)
+[![Pulitzer Prize](https://img.shields.io/badge/Award-Pulitzer%20Prize-blue)](https://www.pulitzer.org/)
+[![Emmy Awards](https://img.shields.io/badge/Award-Emmy%20Awards-orange)](https://www.emmys.com/)
+[![Grammy Awards](https://img.shields.io/badge/Award-Grammy%20Awards-red)](https://www.grammy.com/)
+[![Tony Awards](https://img.shields.io/badge/Award-Tony%20Awards-green)](https://www.tonyawards.com/)
+[![Golden Globe Awards](https://img.shields.io/badge/Award-Golden%20Globe%20Awards-blue)](https://www.goldenglobes.com/)
+[![Booker Prize](https://img.shields.io/badge/Award-Booker%20Prize-orange)](https://thebookerprizes.com/)
+[![National Medal of Technology and Innovation](https://img.shields.io/badge/Award-National%20Medal%20of%20Technology%20and%20Innovation-blue)](https://www.nist.gov/technology/medal-technology-and-innovation)
+[![Copley Medal](https://img.shields.io/badge/Award-Copley%20Medal-red)](https://royalsociety.org/grants-schemes-awards/awards/copley-medal/)
+[![National Book Critics Circle Award](https://img.shields.io/badge/Award-National%20Book%20Critics%20Circle%20Award-green)](https://www.bookcritics.org/awards/)
+[![World No Tobacco Day Awards](https://img.shields.io/badge/Award-World%20No%20Tobacco%20Day%20Awards-blue)](https://www.who.int/campaigns/world-no-tobacco-day/world-no-tobacco-day-awards)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
