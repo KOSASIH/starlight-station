@@ -103,6 +103,12 @@
 [![Sidra Chain Node Operator](https://img.shields.io/badge/Sidra%20Chain-Node%20Operator-009688.svg)](https://www.sidrachain.com/node-operator)
 [![Sidra Chain Developer](https://img.shields.io/badge/Sidra%20Chain-Developer-ff9900.svg)](https://www.sidrachain.com/developers)
 
+[![NASA Group Achievement Award](https://img.shields.io/badge/Award-NASA%20Group%20Achievement%20Award-brightgreen)](https://www.nasa.gov)
+[![ESA Excellence Award](https://img.shields.io/badge/Award-ESA%20Excellence%20Award-blue)](https://www.esa.int)
+[![IAF Best Project Award](https://img.shields.io/badge/Award-IAF%20Best%20Project%20Award-orange)](https://www.iafastro.org)
+[![Space Foundation Award](https://img.shields.io/badge/Award-Space%20Foundation%20Achievement%20Award-yellow)](https://www.spacefoundation.org)
+[![UNOOSA Award](https://img.shields.io/badge/Award-UNOOSA%20Award-lightblue)](https://www.unoosa.org)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # starlight-station
