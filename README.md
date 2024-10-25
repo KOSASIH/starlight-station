@@ -141,6 +141,16 @@
 [![World Technology Award](https://img.shields.io/badge/Award-World%20Technology%20Award-yellow)](https://www.worldtechnologyawards.com/)
 [![IAA Awards](https://img.shields.io/badge/Award-IAA%20Awards-orange)](https://iaaweb.org/content/view/15/29/)
 [![ISDC Awards](https://img.shields.io/badge/Award-ISDC%20Awards-blue)](https://isdc.nss.org/)
+[![Nobel Prize in Physics](https://img.shields.io/badge/Award-Nobel%20Prize%20in%20Physics-blue)](https://www.nobelprize.org/prizes/physics/)
+[![Turing Award](https://img.shields.io/badge/Award-Turing%20Award-orange)](https://awards.acm.org/turing)
+[![Fields Medal](https://img.shields.io/badge/Award-Fields%20Medal-red)](https://www.mathunion.org/imu-awards/fields-medal)
+[![Pritzker Prize](https://img.shields.io/badge/Award-Pritzker%20Architecture%20Prize-green)](https://www.pritzkerprize.com/)
+[![Lasker Award](https://img.shields.io/badge/Award-Lasker%20Award-blue)](https://www.laskerfoundation.org/awards/)
+[![Copley Medal](https://img.shields.io/badge/Award-Royal%20Society%20Copley%20Medal-green)](https://royalsociety.org/grants-schemes-awards/awards/copley-medal/)
+[![Gold Medal of the RAS](https://img.shields.io/badge/Award-Gold%20Medal%20of%20the%20RAS-blue)](https://ras.ac.uk/awards-and-grants/awards/gold-medal)
+[![Benjamin Franklin Medal](https://img.shields.io/badge/Award-Benjamin%20Franklin%20Medal-orange)](https://www.fi.edu/awards/benjamin-franklin-medals)
+[![Shaw Prize in Life Science and Medicine](https://img.shields.io/badge/Award-Shaw%20Prize%20in%20Life%20Science%20and%20Medicine-purple)](https://www.shawprize.org/medicine)
+[![Templeton Prize](https://img.shields.io/badge/Award-Templeton%20Prize-yellow)](https://www.templetonprize.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
