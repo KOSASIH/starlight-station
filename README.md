@@ -161,6 +161,16 @@
 [![International Booker Prize](https://img.shields.io/badge/Award-International%20Booker%20Prize-red)](https://thebookerprizes.com/international-booker)
 [![Gold Medal of the RSA](https://img.shields.io/badge/Award-Gold%20Medal%20of%20the%20RSA-blue)](https://www.thersa.org/)
 [![UNESCO International Literacy Prizes](https://img.shields.io/badge/Award-UNESCO%20International%20Literacy%20Prizes-green)](https://en.unesco.org/themes/literacy)
+[![National Medal of Science](https://img.shields.io/badge/Award-National%20Medal%20of%20Science-blue)](https://www.nsf.gov/od/nms/medal.jsp)
+[![National Book Award](https://img.shields.io/badge/Award-National%20Book%20Award-orange)](https://nationalbook.org/)
+[![Lillian Gish Award](https://img.shields.io/badge/Award-Lillian%20Gish%20Award%20for%20Excellence%20in%20the%20Arts-red)](https://www.americanacademy.org/lillian-gish-award/)
+[![John Bates Clark Medal](https://img.shields.io/badge/Award-John%20Bates%20Clark%20Medal-green)](https ://www.econometricsociety.org/john-bates-clark-medal)
+[![A.M. Turing Award](https://img.shields.io/badge/Award-A.M.%20Turing%20Award-orange)](https://awards.acm.org/turing)
+[![National Medal of Arts](https://img.shields.io/badge/Award-National%20Medal%20of%20Arts-blue)](https://www.arts.gov/honors/medals)
+[![Pritzker Prize](https://img.shields.io/badge/Award-Pritzker%20Prize%20in%20Architecture-green)](https://www.pritzkerprize.com/)
+[![Royal Medal](https://img.shields.io/badge/Award-Royal%20Society%20Royal%20Medal-red)](https://royalsociety.org/grants-schemes-awards/awards/royal-medal/)
+[![UNESCO World Press Freedom Prize](https://img.shields.io/badge/Award-UNESCO%20World%20Press%20Freedom%20Prize-blue)](https://en.unesco.org/commemorations/worldpressfreedomday/guillermo-cano-prize)
+[![International Prize for Arabic Fiction](https://img.shields.io/badge/Award-International%20Prize%20for%20Arabic%20Fiction-orange)](https://www.arabicfiction.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
