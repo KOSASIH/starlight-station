@@ -164,7 +164,7 @@
 [![National Medal of Science](https://img.shields.io/badge/Award-National%20Medal%20of%20Science-blue)](https://www.nsf.gov/od/nms/medal.jsp)
 [![National Book Award](https://img.shields.io/badge/Award-National%20Book%20Award-orange)](https://nationalbook.org/)
 [![Lillian Gish Award](https://img.shields.io/badge/Award-Lillian%20Gish%20Award%20for%20Excellence%20in%20the%20Arts-red)](https://www.americanacademy.org/lillian-gish-award/)
-[![John Bates Clark Medal](https://img.shields.io/badge/Award-John%20Bates%20Clark%20Medal-green)](https ://www.econometricsociety.org/john-bates-clark-medal)
+[![John Bates Clark Medal](https://img.shields.io/badge/Award-John%20Bates%20Clark%20Medal-green)](https://www.econometricsociety.org/john-bates-clark-medal)
 [![A.M. Turing Award](https://img.shields.io/badge/Award-A.M.%20Turing%20Award-orange)](https://awards.acm.org/turing)
 [![National Medal of Arts](https://img.shields.io/badge/Award-National%20Medal%20of%20Arts-blue)](https://www.arts.gov/honors/medals)
 [![Pritzker Prize](https://img.shields.io/badge/Award-Pritzker%20Prize%20in%20Architecture-green)](https://www.pritzkerprize.com/)
