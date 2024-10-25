@@ -118,6 +118,16 @@
 [![IAA Awards](https://img.shields.io/badge/Award-IAA%20Awards-orange)](https://iaaweb.org/content/view/15/29/)
 [![AIAA Awards](https://img.shields.io/badge/Award-AIAA%20Awards-blue)](https://www.aiaa.org/awards)
 [![SSPI Awards](https://img.shields.io/badge/Award-SSPI%20Awards-yellow)](https://www.sspi.org/awards)
+[![NASA Outstanding Leadership Medal](https://img.shields.io/badge/Award-NASA%20Outstanding%20Leadership%20Medal-brightgreen)](https://www.nasa.gov/office/procurement/contractor/awards/outstanding_leadership_medal.html)
+[![NASA Silver Snoopy Award](https://img.shields.io/badge/Award-NASA%20Silver%20Snoopy%20Award-brightgreen)](https://www.nasa.gov/mission_pages/shuttle/launch/silver_snoopy.html)
+[![NASA Exceptional Technical Achievement Medal](https://img.shields.io/badge/Award-NASA%20Exceptional%20Technical%20Achievement%20Medal-brightgreen)](https://www.nasa.gov/office/procurement/contractor/awards/exceptional_technical_achievement_medal.html)
+[![ISS National Lab Awards](https://img.shields.io/badge/Award-ISS%20National%20Lab%20Awards-blue)](https://www.issnationallab.org/)
+[![AIAA Foundation Awards](https://img.shields.io/badge/Award-AIAA%20Foundation%20Awards-blue)](https://www.aiaa.org/foundation/awards)
+[![SSPI Future Leaders Award](https://img.shields.io/badge/Award-SSPI%20Future%20Leaders%20Award-yellow)](https://www.sspi.org/awards/future-leaders-award)
+[![Goddard Space Flight Center Awards](https://img.shields.io/badge/Award-Goddard%20Space%20Flight%20Center%20Awards-brightgreen)](https://www.nasa.gov/centers/goddard/about/awards.html)
+[![IAA Laurels](https://img.shields.io/badge/Award-IAA%20Laurels-orange)](https://iaaweb.org/content/view/15/29/)
+[![NASA Space Technology Awards](https://img.shields.io/badge/Award-NASA%20Space%20Technology%20Awards-brightgreen)](https://www.nasa.gov/mission_pages/technology/awards/index.html)
+[![Space Foundation Space Achievement Award](https://img.shields.io/badge/Award-Space%20Foundation%20Space%20Achievement%20Award-yellow)](https://www.spacefoundation.org/what-we-do/awards/space-achievement-award/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
