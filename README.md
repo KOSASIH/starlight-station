@@ -129,6 +129,19 @@
 [![NASA Space Technology Awards](https://img.shields.io/badge/Award-NASA%20Space%20Technology%20Awards-brightgreen)](https://www.nasa.gov/mission_pages/technology/awards/index.html)
 [![Space Foundation Space Achievement Award](https://img.shields.io/badge/Award-Space%20Foundation%20Space%20Achievement%20Award-yellow)](https://www.spacefoundation.org/what-we-do/awards/space-achievement-award/)
 
+## Special International Awards
+
+[![UNESCO Kalinga Prize](https://img.shields.io/badge/Award-UNESCO%20Kalinga%20Prize%20for%20the%20Popularization%20of%20Science-blue)](https://en.unesco.org/prizes/kalinga)
+[![IAF Awards](https://img.shields.io/badge/Award-IAF%20Awards-orange)](https://www.iafastro.org/activities/awards/)
+[![IUPAC Lavoisier Medal](https://img.shields.io/badge/Award-IUPAC%20Lavoisier%20Medal-red)](https://iupac.org/what-we-do/awards/lavoisier-medal/)
+[![Copley Medal]( https://img.shields.io/badge/Award-Royal%20Society%20Copley%20Medal-green)](https://royalsociety.org/grants-schemes-awards/awards/copley-medal/)
+[![Shaw Prize in Astronomy](https://img.shields.io/badge/Award-Shaw%20Prize%20in%20Astronomy-purple)](https://www.shawprize.org/medicine)
+[![Gold Medal of the RAS](https://img.shields.io/badge/Award-Gold%20Medal%20of%20the%20RAS-blue)](https://ras.ac.uk/awards-and-grants/awards/gold-medal)
+[![IEEE Medal of Honor](https://img.shields.io/badge/Award-IEEE%20Medal%20of%20Honor-orange)](https://www.ieee.org/about/corporate/awards/medal_of_honor.html)
+[![World Technology Award](https://img.shields.io/badge/Award-World%20Technology%20Award-yellow)](https://www.worldtechnologyawards.com/)
+[![IAA Awards](https://img.shields.io/badge/Award-IAA%20Awards-orange)](https://iaaweb.org/content/view/15/29/)
+[![ISDC Awards](https://img.shields.io/badge/Award-ISDC%20Awards-blue)](https://isdc.nss.org/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/starlight-station">Starlight Station</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # starlight-station
